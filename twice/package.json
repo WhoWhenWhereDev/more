@@ -1,0 +1,22 @@
+{
+  "name": "more-twice",
+  "version": "1.0.0",
+  "description": "Another test module",
+  "license": "MIT",
+  "dependencies": {
+    "ccount": "^1.0.0",
+    "is-alphanumeric": "^1.0.0",
+    "is-decimal": "^1.0.0",
+    "is-whitespace-character": "^1.0.0",
+    "longest-streak": "^2.0.0",
+    "markdown-escapes": "^1.0.0",
+    "markdown-table": "^1.0.0",
+    "mdast-util-compact": "^1.0.0",
+    "parse-entities": "^1.0.0",
+    "repeat-string": "^1.0.0",
+    "state-toggle": "^1.0.0",
+    "stringify-entities": "^1.0.0",
+    "unherit": "^1.0.0",
+    "xtend": "^4.0.0"
+  }
+}
