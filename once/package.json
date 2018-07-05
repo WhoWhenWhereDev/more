@@ -6,7 +6,7 @@
   "dependencies": {
     "ccount": "^1.0.0",
     "is-alphanumeric": "^1.0.0",
-    "is-decimal": "^1.0.0",
+    "is-decimal": "1.0.2",
     "is-whitespace-character": "^1.0.0",
     "longest-streak": "^2.0.0",
     "markdown-escapes": "^1.0.0",
