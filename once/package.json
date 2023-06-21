@@ -4,7 +4,7 @@
   "description": "A test module",
   "license": "MIT",
   "dependencies": {
-    "ccount": "^1.0.0",
+    "ccount": "^2.0.0",
     "is-alphanumeric": "^1.0.0",
     "is-decimal": "^1.0.0",
     "is-whitespace-character": "^1.0.0",
